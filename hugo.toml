@@ -1,0 +1,69 @@
+baseURL = "http://localhost:1313/"
+languageCode = "ja-jp"
+title = "kumanomi-s3c-H0ur"
+theme = "hello-4s3ti"
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  homeSubtitle = "Cyber Security / Honeypot / Darknet"
+  defaultTheme = "dark"
+
+[taxonomies]
+  category = "blog"
+  tag = "tags"
+  series = "series"
+
+# =========================
+# Japanese
+# =========================
+
+[languages.ja]
+  languageName = "日本語"
+  languageCode = "ja-jp"
+  weight = 1
+
+[languages.ja.params]
+  homeSubtitle = "Cyber Security / Honeypot / Darknet"
+
+[languages.ja.params.logo]
+  logoText = "kumanomi-s3c-H0ur"
+  logoHomeLink = "/"
+
+
+# =========================
+# English
+# =========================
+
+[languages.en]
+  languageName = "English"
+  languageCode = "en-us"
+  weight = 2
+
+[languages.en.params]
+  homeSubtitle = "Cyber Security / Honeypot / Darknet"
+
+[languages.en.params.logo]
+  logoText = "kumanomi-s3c-H0ur"
+  logoHomeLink = "/en/"
+
+
+# =========================
+# Menu
+# =========================
+
+[[menu.main]]
+  identifier = "posts"
+  name = "記事"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2

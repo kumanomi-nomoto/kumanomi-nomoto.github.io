@@ -10,8 +10,11 @@ defaultContentLanguageInSubdir = false
   pagerSize = 10
 
 [params]
-  homeSubtitle = "Cyber Security / Honeypot / Darknet"
+  homeSubtitle = "Cyber Security / Honeypot "
   defaultTheme = "dark"
+  backgroundImage = "/img/background.webp"
+  backgroundEffects = false
+  customCSS = ["css/custom.css"]
 
 [taxonomies]
   category = "blog"
@@ -28,8 +31,10 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [languages.ja.params]
-  homeSubtitle = "Cyber Security / Honeypot / Darknet"
-
+  homeSubtitle = "Cyber Security / Honeypot "
+  backgroundImage = "/img/background.webp"
+  backgroundEffects = false
+ 
 [languages.ja.params.logo]
   logoText = "kumanomi-s3c-H0ur"
   logoHomeLink = "/"
@@ -45,7 +50,10 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [languages.en.params]
-  homeSubtitle = "Cyber Security / Honeypot / Darknet"
+  homeSubtitle = "Cyber Security / Honeypot "
+  backgroundImage = "/img/background.webp"
+  backgroundEffects = false
+
 
 [languages.en.params.logo]
   logoText = "kumanomi-s3c-H0ur"

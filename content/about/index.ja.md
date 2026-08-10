@@ -8,7 +8,7 @@ title = "About"
 
 主に以下のテーマを扱います。
 
-- Honeypot / Darknet traffic analysis
+- Honeypot 
 - IoT malware / botnet
 - Vulnerability / Exploit observation
 - AI / Agent security

@@ -1,3 +1,25 @@
-.content main > div > p {
+/* .content main > div > p {
     color: #ffffff !important;
+} */
+
+main[aria-role="main"] > div > p {
+    color: #ffffff !important;
+}
+
+.posts-hero,.post-hero {
+    width: 100vw;
+    height: 150px;
+
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+
+    margin-top: -50px;
+    margin-bottom: 35px;
+
+    background-image: url("/img/background.webp");
+    background-size: cover;
+    background-position: center;
+
+    border-radius: 0;
 }

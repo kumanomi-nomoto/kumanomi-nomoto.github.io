@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
   defaultTheme = "dark"
   backgroundImage = "/img/background.webp"
   backgroundEffects = false
-  customCSS = ["css/custom.css"]
+  customCSS = ["/css/custom.css"]
 
 [taxonomies]
   category = "blog"

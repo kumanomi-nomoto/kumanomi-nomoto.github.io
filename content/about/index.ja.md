@@ -32,4 +32,4 @@ title = "About"
 IPアドレス、ドメイン、通信内容などを扱う場合がありますが、
 特定の組織や個人による悪意ある活動を断定するものではありません。
 
-記載内容について誤りや追加情報がある場合は、お知らせください。
+記載内容について誤りや追加情報がある場合は、[こちら](https://github.com/kumanomi-nomoto/kumanomi-nomoto.github.io/discussions/1)へお知らせください。

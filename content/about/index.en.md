@@ -38,4 +38,4 @@ Some articles may include information related to IP addresses, domains, network 
 
 I do not intend to attribute malicious activity to any specific individual or organization without sufficient evidence.
 
-If you notice any errors or have additional information regarding the content published here, please feel free to contact me.
+If you notice any errors or have additional information regarding the content published here, please feel free to [contact](https://github.com/kumanomi-nomoto/kumanomi-nomoto.github.io/discussions/1) me.
